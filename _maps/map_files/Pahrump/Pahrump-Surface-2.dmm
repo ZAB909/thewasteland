@@ -22540,6 +22540,9 @@
 	icon_state = "horizontaloutermain2right"
 	},
 /area/f13/building)
+"iMf" = (
+/turf/closed/wall/f13/store/constructed,
+/area/f13/wasteland)
 "iMm" = (
 /obj/structure/rack,
 /obj/item/clothing/under/f13/bdu,
@@ -70101,10 +70104,10 @@ koD
 eaZ
 mOD
 tPy
-pqO
-wGJ
-pqO
-pqO
+iMf
+iMf
+iMf
+iMf
 rMa
 gmX
 sya
@@ -70358,10 +70361,10 @@ koD
 unI
 mKp
 wGJ
-pqO
-pqO
-gmX
-pqO
+iMf
+iMf
+iMf
+iMf
 pqO
 gmX
 koD
@@ -70615,10 +70618,10 @@ koD
 eaZ
 qvQ
 wGJ
-pqO
-pqO
-pqO
-pqO
+iMf
+iMf
+iMf
+iMf
 pRo
 gmX
 koD
@@ -70872,10 +70875,10 @@ dKW
 unI
 qvQ
 vfc
-pqO
-pqO
-pqO
-pqO
+iMf
+iMf
+iMf
+iMf
 pqO
 pqO
 sya
@@ -71129,10 +71132,10 @@ dKW
 unI
 qvQ
 pqO
-pqO
-pqO
-pqO
-wGJ
+iMf
+iMf
+iMf
+iMf
 pqO
 pqO
 koD
