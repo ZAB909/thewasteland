@@ -339,12 +339,6 @@
 	scope_y_offset = 20
 	fire_sound = 'sound/f13weapons/sequoia.ogg'
 
-/obj/item/gun/ballistic/revolver/hunting/klatue
-	name = "degraded hunting revolver"
-	desc = "A scoped double action revolver chambered in 45-70. This one is very worn."
-	extra_damage = 34
-	extra_penetration = 0
-
 /////////////////////
 // WEIRD REVOLVERS //
 /////////////////////
@@ -387,7 +381,7 @@
 /obj/item/gun/ballistic/revolver/needler
 	name = "Needler pistol"
 	desc = "You suspect this Bringham needler pistol was once used in scientific field studies. It uses small hard-plastic hypodermic darts as ammo. "
-	extra_damage = 21
+	extra_damage = 20
 	icon_state = "needler"
 	mag_type = /obj/item/ammo_box/magazine/internal/cylinder/revneedler
 	fire_sound = 'sound/weapons/gunshot_silenced.ogg'
