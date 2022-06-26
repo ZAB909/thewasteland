@@ -722,7 +722,15 @@
 /turf/closed/mineral/snowmountain/cavern/icemoon
 	baseturfs = /turf/open/floor/plating/asteroid/snow/ice/icemoon
 	turf_type = /turf/open/floor/plating/asteroid/snow/ice/icemoon
-	initial_gas_mix = ICEMOON_DEFAULT_ATMOS
+	initial_gas_mix = ICEMOON_DEFAULT_ATMOS	
+
+//minable cm thin ice wall
+/turf/closed/mineral/thinice
+	name = "thin ice wall"
+	icon = 'icons/turf/walls/icewalllight.dmi'
+	icon_state = "Single"
+	desc = "It is very thin. You could break this apart with a pick"
+	opacity = 0
 /*
 //GIBTONITE
 
